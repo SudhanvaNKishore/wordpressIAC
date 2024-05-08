@@ -20,5 +20,3 @@ This project automates the setup of WordPress through Vagrant, simplifying the p
 - **Ubuntu:** Linux distribution used for the VM.
 - **Vagrant:** Automation tool for building and managing VM environments.
 - **TypeScript:** Programming language used for automating provisioning tasks.
-
-This project streamlines the setup of WordPress on a virtual machine environment, providing hands-on experience with automation techniques and server management.
